@@ -1,6 +1,6 @@
 {
-  "name": "smb-phaser",
-  "version": "1.0.0",
+  "name": "phaser-mario",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "dependencies": {
